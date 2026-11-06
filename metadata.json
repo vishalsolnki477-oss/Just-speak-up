@@ -1,0 +1,10 @@
+{
+  "name": "SpeakUp AI – Learn English with Confidence",
+  "description": "Interactive English learning platform from zero to fluent with AI tutor, speech practice, listening comprehension, structured grammar with Hindi explanations, and vocabulary builder.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
